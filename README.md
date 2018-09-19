@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pentaho-platform
 ================
 
@@ -111,3 +112,7 @@ __IntelliJ__
 For issue tracking and bug report please use
 [Jira](http://jira.pentaho.com/browse/biserver). Its master branch is built upon commit
 merges in [Jenkins Continuous Integration](http://ci.pentaho.com/job/BISERVER-CE/)
+=======
+# BDA-7.1.0.0.12
+BDA源码构建
+>>>>>>> 13dfae866116d16e0594860047b3a054f6795c7e

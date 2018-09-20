@@ -114,5 +114,5 @@ For issue tracking and bug report please use
 merges in [Jenkins Continuous Integration](http://ci.pentaho.com/job/BISERVER-CE/)
 =======
 # BDA-7.1.0.0.12
-BDA源码构建
+BDA源码构建文档
 >>>>>>> 13dfae866116d16e0594860047b3a054f6795c7e
